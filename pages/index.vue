@@ -10,6 +10,10 @@
           <img src="~/assets/persebaya store.jpg" width="70%"> 
         </div>
         </div>
+        <div>
+        <br>
+        <br>
+        </div>
     <div class="container">
             <!-- Footer -->
   <footer class="page-footer font-small special-color-dark pt-4" style="background-color: #228B22;">
